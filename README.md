@@ -1,3 +1,2 @@
-# mygarbage
-# just python beginner files
-# all written by noob me
+just python beginner files
+all written by #noob# me
