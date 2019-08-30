@@ -1,2 +1,2 @@
 just python beginner files
-all written by #noob# me
+all written by noob me
