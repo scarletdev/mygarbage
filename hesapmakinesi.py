@@ -35,3 +35,4 @@ elif soru == "3": #çarpma
 elif soru == "4": #bölme
     sayi1 = int(input("Bölünecek sayıları giriniz: "))
     sayi2 = int(input("Bölünecek sayıları giriniz: "))
+    #I DONT KNOW WHY BUT I DIDNT CONTINUE THAT
