@@ -4,6 +4,8 @@
 # Written by Scarlet
 # discord.me/Scarlet
 
+# My first and multifunctional python module
+
 # I WROTE THIS WHEN I'M NOOB SO THERE ARE SO MANY MISTAKES I GUESS
 
 import socket
