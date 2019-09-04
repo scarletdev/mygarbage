@@ -4,6 +4,8 @@
 # Written by Scarlet
 # discord.me/Scarlet
 
+# I WROTE THIS WHEN I'M NOOB SO THERE ARE SO MANY MISTAKES I GUESS
+
 import socket
 import webbrowser
 import platform
